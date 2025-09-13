@@ -1,0 +1,5 @@
+{
+  "name": "AI Product Scene Creator",
+  "description": "An application that uses generative AI to blend multiple product images into a single background image, creating realistic, professional-grade product photography scenes.",
+  "requestFramePermissions": []
+}
